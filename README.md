@@ -51,7 +51,6 @@ H → 📤 Export Final Outputs
 🔬 ResearchGate: https://www.researchgate.net/profile/Subham-Roy-14
 📚 Google Scholar: https://scholar.google.com/citations?user=bTxDrQgAAAAJ&hl=en
 🆔 ORCID: https://orcid.org/0009-0007-6704-2781
-💬 Telegram: https://t.me/SubhamGeospatialAI
 💻 GitHub: https://github.com/Roysubh
 
 ✅ Conclusion:
